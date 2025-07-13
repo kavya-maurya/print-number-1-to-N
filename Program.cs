@@ -9,6 +9,7 @@ namespace loops
 
 
             Console.WriteLine("  ");
+            
             Console.Write("please type here till which number you want numbers to be printed from 1 to N ----> ");
 
             int N = Convert.ToInt32 (Console.ReadLine());
