@@ -1,0 +1,28 @@
+F:\Practice\loops\bin\Debug\net9.0\loops.exe
+F:\Practice\loops\bin\Debug\net9.0\loops.deps.json
+F:\Practice\loops\bin\Debug\net9.0\loops.runtimeconfig.json
+F:\Practice\loops\bin\Debug\net9.0\loops.dll
+F:\Practice\loops\bin\Debug\net9.0\loops.pdb
+F:\Practice\loops\obj\Debug\net9.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\loops\obj\Debug\net9.0\loops.AssemblyInfoInputs.cache
+F:\Practice\loops\obj\Debug\net9.0\loops.AssemblyInfo.cs
+F:\Practice\loops\obj\Debug\net9.0\loops.csproj.CoreCompileInputs.cache
+F:\Practice\loops\obj\Debug\net9.0\loops.dll
+F:\Practice\loops\obj\Debug\net9.0\refint\loops.dll
+F:\Practice\loops\obj\Debug\net9.0\loops.pdb
+F:\Practice\loops\obj\Debug\net9.0\loops.genruntimeconfig.cache
+F:\Practice\loops\obj\Debug\net9.0\ref\loops.dll
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\loops.AssemblyInfoInputs.cache
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\loops.AssemblyInfo.cs
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\loops.csproj.CoreCompileInputs.cache
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\loops.dll
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\refint\loops.dll
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\loops.pdb
+F:\Practice\loops( print numbers 1-N)\bin\Debug\net9.0\loops.exe
+F:\Practice\loops( print numbers 1-N)\bin\Debug\net9.0\loops.deps.json
+F:\Practice\loops( print numbers 1-N)\bin\Debug\net9.0\loops.runtimeconfig.json
+F:\Practice\loops( print numbers 1-N)\bin\Debug\net9.0\loops.dll
+F:\Practice\loops( print numbers 1-N)\bin\Debug\net9.0\loops.pdb
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\loops.genruntimeconfig.cache
+F:\Practice\loops( print numbers 1-N)\obj\Debug\net9.0\ref\loops.dll
